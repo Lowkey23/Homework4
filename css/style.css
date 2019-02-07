@@ -1,6 +1,8 @@
 .logo{
 	width: 100px;
 	vertical-align: middle;
+	margin-bottom: 10px;
+	margin-right: 22px;
 }
 .d-block{
 	display: inline-block
@@ -19,6 +21,7 @@
 }
 .text2{
 	width: 930px;
+	font-family: "BPG Ingiri Arial", sans-serif;
 }
 .container{
 	margin-left: 30px;
@@ -26,11 +29,14 @@
 }
 .text{
 	margin: 23px 0 15px 0;
+	font-family: "BPG Ingiri Arial", sans-serif;
 }
 .month{
 	color: #3D58A6;
 	font-size:22px;
-	margin-bottom: 23px;
+	font-family: "BPG Nino Mtavruli", sans-serif;
+	margin-top: 5px;
+	margin-bottom: 20px;
 }
 .icon{
 	height: 30px;
@@ -48,6 +54,7 @@
 }
 .paragraph{
 	margin: -80px 315px 100px 315px;
+	font-family: "BPG Ingiri Arial", sans-serif;
 }
 .section{
 	margin-top: -45px;
@@ -58,4 +65,75 @@
 	font-size: 48px;
 	color: #ffffff;
 	padding: 5px;
+}
+.navigation-a{
+    font-family: "BPG Nino Mtavruli Bold", sans-serif;
+    margin-top: 20px;
+    margin-left: 22px;
+}
+
+.active{
+    color: #EE4036;
+    font-family: "BPG Nino Mtavruli Bold", sans-serif;
+    margin-left: 20px;
+}
+.satauri{
+	font-family: "BPG Nino Mtavruli", sans-serif;
+}
+.banner{
+	width: 1170px;
+	margin-left: 95px;
+	margin-top: 82px;
+}
+.body{
+	margin-left: 93px;
+	font-family: 'Roboto', sans-serif;
+	font-size: 24px;
+	margin-top: 100px;
+}
+.container2 h3 {
+	margin-top: 125px;
+	font-size: 22px;
+	margin-bottom: 36px;
+	margin-left: 40px;
+	font-family: 'Roboto', sans-serif;
+}
+.container2{
+	margin-left: 52px;
+	margin-bottom: 100px;
+}
+.container2 h4{
+	color: #3D58A6;
+	font-family: 'Roboto', sans-serif;
+	font-size: 22px;
+}
+.box {	
+	background-color: #F2F2F2;
+	padding: 20px 20px 40px 40px;
+	margin-right: 70px;
+	margin-left: 40px;
+	margin-bottom: -20px;
+}
+
+.box-child {
+	margin-top: 30px;
+	padding: 5px;
+}
+.box-child img {
+	height: 100px;
+	vertical-align: top;
+	margin-right: 30px;
+}
+.box-child  p{
+	width: 355px;
+	font-family: 'Roboto', sans-serif;
+	color: #58595B;
+
+}
+.font{
+	font-size: 24px;
+}
+.footer2{
+ margin-left: 100px;
+ margin-bottom: 40px;
 }
